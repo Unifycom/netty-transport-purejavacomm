@@ -23,7 +23,7 @@
     <version>${revision}</version>
 
     <name>Netty/Transport/Purejavacomm</name>
-    <description>A netty bluetooth pipeline using Bluecove</description>
+    <description>A netty bluetooth pipeline using Purejavacomm</description>
     <url>https://github.com/Unifycom/netty-transport-purejavacomm</url>
 
     <developers>
